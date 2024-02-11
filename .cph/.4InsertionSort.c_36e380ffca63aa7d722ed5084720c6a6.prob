@@ -1,0 +1,1 @@
+{"name":"Local: 4InsertionSort","url":"e:\\Programming\\AlgorithmLab\\Mid_Presentation\\4InsertionSort.c","tests":[{"id":1707278619667,"input":"5\n12 4 26 35 25","output":"4 12 25 26 35"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\AlgorithmLab\\Mid_Presentation\\4InsertionSort.c","group":"local","local":true}

@@ -1,0 +1,3 @@
+Enter the size: 
+Enter the elements of array: 
+The sorted array is: 5 23 26 56 458 
