@@ -1,1 +1,1 @@
-Enter the number of elements: Enter the elements: Sorted array: 1 2 3 3 4 5 15 24 35 98 
+.
