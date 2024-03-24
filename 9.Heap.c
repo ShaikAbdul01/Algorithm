@@ -1,7 +1,6 @@
 #include <stdio.h>
 void insertHeap(int heap[], int *size, int element)
 {
-
     int i = (*size)++;
     while (i > 0 && element > heap[(i - 1) / 2])
     {
