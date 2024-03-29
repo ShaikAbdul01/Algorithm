@@ -55,3 +55,21 @@ int main()
 
     return 0;
 }
+/*
+Enter the number of vertices: 5
+Enter the number of edges: 6
+Enter the edges (in format 'source destination'):
+1 2
+1 3
+2 4
+2 5
+3 4
+4 5
+Adjacency Matrix:
+0 1 1 0 0
+1 0 0 1 1
+1 0 0 1 0
+0 1 1 0 1
+0 1 0 1 0
+
+ */

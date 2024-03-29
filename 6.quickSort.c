@@ -55,3 +55,11 @@ int main()
     // printf("\n");
     return 0;
 }
+
+/* 
+Enter the value: 5
+
+Enter the arrya elements:  24 15 2 45 10
+
+Sorting Array: 2 10 15 24 45 
+ */

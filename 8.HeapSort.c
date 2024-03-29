@@ -62,6 +62,14 @@ int main()
     return 0;
 }
 
+/*
+Enter the number of elements: 6
+Enter the elements: 5 30 40 20 15 10
+Sorted array: 5 10 15 20 30 40
+
+
+ */
+
 // Min heap
 
 /*
